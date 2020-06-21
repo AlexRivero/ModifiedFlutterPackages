@@ -43,13 +43,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.0"
-  characters:
-    dependency: transitive
-    description:
-      name: characters
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.0"
   charcode:
     dependency: transitive
     description:
@@ -126,16 +119,20 @@ packages:
   geodesy:
     dependency: "direct main"
     description:
-      path: "D:\\Usuarios\\Alex\\Documentos\\Flutter Projects\\geodesy"
-      relative: false
-    source: path
+      path: geodesy
+      ref: HEAD
+      resolved-ref: "98c27a522099e8f75790a5037941ef1120ac516a"
+      url: "git://github.com/AlexRivero/ModifiedFlutterPackages.git"
+    source: git
     version: "0.3.2"
   geopoint:
     dependency: "direct main"
     description:
-      path: "D:\\Usuarios\\Alex\\Documentos\\Flutter Projects\\geopoint"
-      relative: false
-    source: path
+      path: geopoint
+      ref: HEAD
+      resolved-ref: "98c27a522099e8f75790a5037941ef1120ac516a"
+      url: "git://github.com/AlexRivero/ModifiedFlutterPackages.git"
+    source: git
     version: "0.7.1"
   glob:
     dependency: transitive
@@ -528,5 +525,5 @@ packages:
     source: hosted
     version: "2.2.1"
 sdks:
-  dart: ">=2.9.0-14.0.dev <3.0.0"
+  dart: ">=2.7.0 <3.0.0"
   flutter: ">=1.16.3 <2.0.0"
