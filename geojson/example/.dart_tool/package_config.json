@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "geojson_example",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.0"
+    }
+  ],
+  "generated": "2020-06-20T22:55:21.486792Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.0-14.0.dev.flutter-2b917f5b6a"
+}
