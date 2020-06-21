@@ -13,12 +13,12 @@ dependencies:
   geopoint: 
     git: 
       url: git://github.com/AlexRivero/ModifiedFlutterPackages.git
-      path: ModifiedFlutterPackages/geopoint
+      path: geopoint
   iso: ^0.3.0
   geodesy: 
     git: 
       url: git://github.com/AlexRivero/ModifiedFlutterPackages.git
-      path: ModifiedFlutterPackages/geodesy
+      path: geodesy
 
 dev_dependencies:
   test: ^1.6.5
